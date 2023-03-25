@@ -7,6 +7,7 @@ public class JavaApplication3 {
         // TODO code application logic here
         System.out.println("Morning, Morning, Morning");
         System.out.println("\thello, have a good day");
+        System.out.println("\t\toh! thank you");
     }
 }
     
