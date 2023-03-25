@@ -7,9 +7,10 @@ public class JavaApplication3 {
         System.out.println("Morning, Morning, Morning");
         System.out.println("\thello, have a good day");
         System.out.println("\t\toh! thank you");
-        System.out.println("\t\t\t you are great");
+        System.out.println("\t\t");
+        System.out.println("\t\t you are great");
         System.out.println("\t\t this is my pleasure");
-        System.out.println("\t no,..... you are welcome");
+        System.out.println("no,..... you are welcome");
         
     }
 }
