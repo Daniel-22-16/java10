@@ -1,4 +1,3 @@
-
 package javaapplication3;
 
 public class JavaApplication3 {
@@ -13,7 +12,3 @@ public class JavaApplication3 {
         System.out.println("\t no,..... you are welcome");
     }
 }
-    
-  
-    
-
